@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\解題\一元二次方程式\一元二次方程式\bin\Debug\一元二次方程式.exe.config
+C:\Users\user\Desktop\解題\一元二次方程式\一元二次方程式\bin\Debug\一元二次方程式.exe
+C:\Users\user\Desktop\解題\一元二次方程式\一元二次方程式\bin\Debug\一元二次方程式.pdb
+C:\Users\user\Desktop\解題\一元二次方程式\一元二次方程式\obj\Debug\一元二次方程式.csprojAssemblyReference.cache
+C:\Users\user\Desktop\解題\一元二次方程式\一元二次方程式\obj\Debug\一元二次方程式.Form1.resources
+C:\Users\user\Desktop\解題\一元二次方程式\一元二次方程式\obj\Debug\一元二次方程式.Properties.Resources.resources
+C:\Users\user\Desktop\解題\一元二次方程式\一元二次方程式\obj\Debug\一元二次方程式.csproj.GenerateResource.cache
+C:\Users\user\Desktop\解題\一元二次方程式\一元二次方程式\obj\Debug\一元二次方程式.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\解題\一元二次方程式\一元二次方程式\obj\Debug\一元二次方程式.exe
+C:\Users\user\Desktop\解題\一元二次方程式\一元二次方程式\obj\Debug\一元二次方程式.pdb
